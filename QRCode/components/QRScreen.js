@@ -3,7 +3,7 @@
  
 import React, { Component } from 'react'
 import QRCode from 'react-native-qrcode-svg';
-import { WebView } from 'react-native-webview';
+
 
 import {
     AppRegistry,
